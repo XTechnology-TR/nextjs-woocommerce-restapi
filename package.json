@@ -29,7 +29,7 @@
     "react-image-gallery": "^1.2.11",
     "sass": "^1.54.9",
     "stripe": "^10.8.0",
-    "validator": "^13.7.0"
+    "validator": "^13.15.20"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.8",
